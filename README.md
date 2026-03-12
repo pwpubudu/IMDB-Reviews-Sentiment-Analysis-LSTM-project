@@ -36,7 +36,7 @@ IMDB-Reviews-Sentiment-Analysis-LSTM-project/
 
 ________________________________________
 5. Dataset
-•Dataset Source: IMDB Movie Reviews Dataset from kaggle.com
+•Dataset Source: Sentiment Analysis of Movie Reviews: IMDB Dataset from https://www.kaggle.com/code/nourhankarm/sentiment-analysis-of-movie-reviews-imdb-dataset/
 •Dataset Size: 50,000 reviews
 •Classes: Positive (1), Negative (0)
 •Distribution: Balanced dataset
